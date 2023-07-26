@@ -1,2 +1,2 @@
-# Python_Diwali_Sales_Analysis
+EDA_DIWALI_SALES_DATASET
 Pereformed Data Cleaning and Manipulation
