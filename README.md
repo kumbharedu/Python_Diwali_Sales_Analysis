@@ -1,2 +1,0 @@
-EDA_DIWALI_SALES_DATASET
-Pereformed Data Cleaning and Manipulation
